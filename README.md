@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnushkaReddy
 - 👀 I’m interested in Coding in python and Machine Learning
-- 🌱 I’m currently learningPython and Machine Learning
+- 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on data scientists and analytics
 - 📫 How to reach me @reddyanushka2001@gmail.com
 
