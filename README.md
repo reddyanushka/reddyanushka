@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reddyanushka
+- 👋 Hi, I’m @AnushkaReddy
 - 👀 I’m interested in Coding in python and Machine Learning
 - 🌱 I’m currently learningPython and Machine Learning
 - 💞️ I’m looking to collaborate on data scientists and analytics
